@@ -1,6 +1,4 @@
-# GIMP-Horror-Filter
-Grayscale horror filter for GIMP
-
+![example](https://github.com/tinyworlds/GIMP-Horror-Filter/blob/master/example.jpg?raw=true)
  
 ## How-to Install
 1. [Download](https://github.com/tinyworlds/GIMP-Horror-Filter/zipball/master) & extract the plugin
